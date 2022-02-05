@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <br>
  
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />](https://github.com/rodneyazev)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={rodneyazev}" />](https://github.com/rodneyazev)
 
 </div>
 
