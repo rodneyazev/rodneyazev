@@ -36,8 +36,6 @@
 <br>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-##### P.S.: Profile still under construction, so, take easy, please ;)
-
 </div>
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
