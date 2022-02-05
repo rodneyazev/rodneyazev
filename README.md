@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Rodney
 
-##### I work with IT during a long time, and have been using my skills as Analyst in support and solving problems (troubleshooter, deployer, automation, etc).
+#### I work with IT during a long time, and have been using my skills as Analyst in support and solving problems (troubleshooter, deployer, automation, etc).
+#### And now I am here trying create my own profile, so, take easy. ;)
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
