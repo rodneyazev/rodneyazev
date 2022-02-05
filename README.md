@@ -37,9 +37,10 @@
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <br>
-![image]({https://github-readme-stats.vercel.app/api?username={username}})
+
 </div>
 
+![image]({https://github-readme-stats.vercel.app/api?username={username}})
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
