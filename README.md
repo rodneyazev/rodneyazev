@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Rodney
+
+#### Work with IT during a long time, using my programming language and other skills as Analyst (troubleshooter, deployer, automation, etc).
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
