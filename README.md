@@ -3,7 +3,7 @@
 ## Hi there 👋 my name is Rodney
 
 
-#### I've been working with IT a long time, using my skills as Analyst in supporting and solving problems<br>
+#### I've been working with IT a long time, using my skills as Analyst in supporting and solving problems<br><br>
   
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodney-a-901681213/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/rodneyazev)
