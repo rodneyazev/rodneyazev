@@ -1,7 +1,9 @@
 ## <div align="center">Hi there 👋 my name is Rodney</div>
 
 
-#### I work with IT during a long time, and have been using my skills as Analyst in supporting and solving problems
+#### <div align="center">I work with IT during a long time, and have been using my skills as Analyst in supporting and solving problems</div>
+
+##### P.S.: Profile still under construction, so, take easy, please ;)
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
