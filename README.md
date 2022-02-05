@@ -39,7 +39,7 @@
 <br>
 </div>
 
-#### I’m currently studying javascript.
+#### I’m currently studying Javascript / Node.JS
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
