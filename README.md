@@ -3,7 +3,6 @@
 #### I work with IT during a long time, and have been using my skills as Analyst in support and solving problems (troubleshooter, deployer, automation, etc).
 #### And now I am here creating my own profile, so, take easy. ;)
 
-| Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
