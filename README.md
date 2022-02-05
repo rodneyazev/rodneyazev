@@ -1,12 +1,15 @@
-## <div align="center">Hi there 👋 my name is Rodney</div>
+<div align="center">
+  
+## Hi there 👋 my name is Rodney
 
 
-#### <div align="center">I work with IT during a long time, and have been using my skills as Analyst in supporting and solving problems</div>
+#### >I work with IT during a long time, and have been using my skills as Analyst in supporting and solving problems
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodney-a-901681213/)
 
 ##### P.S.: Profile still under construction, so, take easy, please ;)
 
+</div>
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
