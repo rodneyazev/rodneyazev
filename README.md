@@ -40,7 +40,7 @@
 
 </div>
 
-![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={username}})
+![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={rodneyazev}})
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
