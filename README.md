@@ -37,11 +37,11 @@
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <br>
-</div>
 
 [![Rodney's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodneyazev)](https://github.com/rodneyazev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&layout=compact)](https://github.com/rodneyazev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8)](https://github.com/rodneyazev/github-readme-stats)
+</div>
 
 #### I’m currently studying Javascript / Node.JS
 
