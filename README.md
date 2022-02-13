@@ -41,8 +41,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&layout=compact"/>
 </div>
 
-#### I’m currently studying Javascript / Node.JS
-
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
