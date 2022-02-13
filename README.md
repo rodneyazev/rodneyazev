@@ -39,6 +39,8 @@
 <br>
 </div>
 
+[![Rodney's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodneyazev)](https://github.com/rodneyazev/github-readme-stats)
+
 #### I’m currently studying Javascript / Node.JS
 
 <!--
