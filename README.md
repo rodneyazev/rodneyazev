@@ -39,6 +39,9 @@
 <br>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rodneyazev"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&layout=compact"/>
+  <br>
+<img  height="180em" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img height="180em" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 #### I’m currently studying Javascript / Node.JS
