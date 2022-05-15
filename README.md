@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <br>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rodneyazev"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&layout=compact"/>
