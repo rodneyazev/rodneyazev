@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Rodney
+# Hi there, welcome to my profile!
   
 <div align="justify">
   
