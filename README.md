@@ -27,9 +27,8 @@ Operational Systems:<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" /><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev" />
 <img src="https://github-readme-stats.vercel.app/api?username=rodneyazev" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev" />
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
