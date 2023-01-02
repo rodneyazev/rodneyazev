@@ -1,5 +1,5 @@
-# Hi there, <a href="https://gkassym.netlify.app" target="_blank">Rodney Azevedo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-I'm welcome to my profile!
+# Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Rodney Azevedo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+Welcome to my profile!
   
 <div align="justify">
 Script:<br>
