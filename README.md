@@ -30,7 +30,7 @@ Operational Systems:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=rodneyazev" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev" />
 
-- 🔭 I’m currently working on Process Analyst...
+- 🔭 I’m currently working on Process Analyst
 - 🌱 I’m currently learning Vue
 
 <!--
