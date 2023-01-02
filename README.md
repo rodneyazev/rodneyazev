@@ -27,10 +27,7 @@ Operational Systems:<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodneyazev"/>
-</div>
-
-#### I’m currently studying Javascript / Node.JS
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodneyazev" />
 
 <!--
 **rodneyazev/rodneyazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
