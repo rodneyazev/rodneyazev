@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Rodney Azevedo
-## Welcome to my profile!
+## Welcome to my [GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) profile!
   
 <div align="justify">
 Script:<br>
