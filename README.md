@@ -28,7 +28,6 @@ Operational Systems:<br>
 <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" /><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rodneyazev" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev" />
 
 - 🔭 I’m currently working on Process Analyst
 - 🌱 and learning Vue
