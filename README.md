@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, my name is Rodney and welcome to my GitHub profile.<br>
-### Code is easy, but, I'm a Process Analyst. =P
+## Code is easy, but, I'm an Analyst.
 
 Social Media:<br>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-a-901681213/)
