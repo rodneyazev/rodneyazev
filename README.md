@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, my name is Rodney and welcome to my GitHub profile.<br>
+# Hi, my name is Rodney, and welcome to my GitHub profile.<br>
 ## Code is easy, but I'm an Analyst today.
 
 Social Media:<br>
