@@ -2,7 +2,7 @@
 
 My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems.
 
-![]([http://i.imgur.com/OUkLi.gif](https://imgur.com/r7it5tZ))
+![]([[http://i.imgur.com/OUkLi.gif](https://imgur.com/r7it5tZ)](https://i.imgur.com/r7it5tZ.gif))
 
 <br>
 
