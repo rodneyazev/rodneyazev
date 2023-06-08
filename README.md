@@ -2,7 +2,6 @@
 
 My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems. I'm a proactive and assertive, easily adaptable, who learns quickly and loves to work in a team (collaborative work). I am responsible, competent, hardworking and I do everything in my reach to achieve results.
 
-Social Media:<br>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-a-901681213/)
   
 <br>
