@@ -30,8 +30,6 @@ My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
 <br>
 
 
