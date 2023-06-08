@@ -2,7 +2,7 @@
 
 My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems.
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F6c0c2e33-ed25-4be3-a98b-54c28edede2c&psig=AOvVaw3XSCKDvuxvlTu5yjkBtqXE&ust=1686280806782000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjAudbbsv8CFQAAAAAdAAAAABAD))
+![]([http://i.imgur.com/OUkLi.gif](https://imgur.com/r7it5tZ))
 
 <br>
 
