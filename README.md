@@ -4,10 +4,6 @@
 
 My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems.
 
-<br>
-
-"Let the games begin" =D
-
 ![](https://i.imgur.com/r7it5tZ.gif)
 
 <br>
