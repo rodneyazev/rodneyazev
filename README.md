@@ -2,6 +2,8 @@
 
 My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 <br>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-a-901681213/)
