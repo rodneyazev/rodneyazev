@@ -4,7 +4,7 @@
 
 My name is Rodney, I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems.
 
-![Tron Legacy](https://i.imgur.com/r7it5tZ.gif)
+<center>![Tron Legacy](https://i.imgur.com/r7it5tZ.gif)</center>
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
