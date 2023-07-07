@@ -2,11 +2,9 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-a-901681213/)
 
-Hi there, my name is Rodney and welcome!
+Hi there, my name is Rodney and Welcome! =D
 
-I am an IT Analyst who is enthusiastic about new technologies, who is always creating and innovating wherever I am and who enjoys solving problems, and I'm using GitHub as a knowledge base.
-
-=D
+I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as a knowledge base.
 
 <!-- ![Tron Legacy](https://i.imgur.com/r7it5tZ.gif) -->
 
