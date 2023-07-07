@@ -4,7 +4,7 @@
 
 Hi there, my name is Rodney and Welcome! =D
 
-I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as a knowledge base.
+I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as my personal knowledge base.
 
 <!-- ![Tron Legacy](https://i.imgur.com/r7it5tZ.gif) -->
 
