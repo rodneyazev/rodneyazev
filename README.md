@@ -9,11 +9,11 @@
   I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as my personal knowledge base.
 </p>
 <hr>
-<p align='center'>
+<!--<p align='center'>
   <a href="#">
     <img src="https://i.imgur.com/05pAAX9.gif" />
   </a>
-</p>
+</p>-->
 <br>
 <p align='center'>
   <a href="#">
