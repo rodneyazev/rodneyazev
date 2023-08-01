@@ -64,10 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
 </p>
-
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=ZmdyC8_IZmQ "Now in Android: 55")    // Video Link
 <!--
 - 🔭 
 - 🌱 Learning Vue.js and QA/Test tools 
