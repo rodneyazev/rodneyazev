@@ -12,6 +12,21 @@ I'm an IT Analyst passionate about new technologies, who loves to create and inn
     <img src="https://i.imgur.com/pr6cyqK.gif" />
   </a>
 </p>
+<p align='center'>
+  <a href="#">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://i.imgur.com/pr6cyqK.gif" />
+<img src="https://i.imgur.com/pr6cyqK.gif" />
+<img src="https://i.imgur.com/pr6cyqK.gif" />
+<img src="https://i.imgur.com/pr6cyqK.gif" />
+<img src="https://i.imgur.com/pr6cyqK.gif" />
+<img src="https://i.imgur.com/pr6cyqK.gif" />
+
+  </a>
+</p>
+
+
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
