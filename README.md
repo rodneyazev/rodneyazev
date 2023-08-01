@@ -1,6 +1,5 @@
-<p align="center">Welcome
-  
-Hi there, my name is Rodney and Welcome!
+<p align="center">Welcome</p>
+<p align="center">Hi there, my name is Rodney and Welcome!</p>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-a-901681213/)
 
