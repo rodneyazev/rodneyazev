@@ -12,8 +12,6 @@ I'm an IT Analyst passionate about new technologies, who loves to create and inn
     <img src="https://i.imgur.com/pr6cyqK.gif" />
   </a>
 </p>
-<!--<p  align="center">![John Wick](https://i.imgur.com/pr6cyqK.gif)-->
-
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
