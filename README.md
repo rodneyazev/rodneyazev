@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
 <p align='center'>
   <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/rodney-azevedo-901681213/)">
