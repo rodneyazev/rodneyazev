@@ -64,11 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
 </p>
-<div>
-<iframe width="560" height="315" src="//www.youtube.com/embed/jFGKJBPFdUA" frameborder="0" 
-
-  allowfullscreen></iframe>
-  </div>
 <!--
 - 🔭 
 - 🌱 Learning Vue.js and QA/Test tools 
