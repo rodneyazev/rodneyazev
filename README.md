@@ -9,11 +9,6 @@ I'm an IT Analyst passionate about new technologies, who loves to create and inn
 <p><hr></p>
 <p align='center'>
   <a href="#">
-    <img src="https://i.imgur.com/05pAAX9.gif" />
-  </a>
-</p>
-<p align='center'>
-  <a href="#">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -56,7 +51,11 @@ I'm an IT Analyst passionate about new technologies, who loves to create and inn
     <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
   </a>
 </p>
-
+<p align='center'>
+  <a href="#">
+    <img src="https://i.imgur.com/05pAAX9.gif" />
+  </a>
+</p>
 
 <!--
 
