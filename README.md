@@ -1,13 +1,13 @@
-<p align="center">Hi there, my name is Rodney and Welcome!</p>
-
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
+<p align="center">Hi there, my name is Rodney and Welcome!</p>
+<p align='center'>
+  <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/rodney-azevedo-901681213/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 
 I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as my personal knowledge base.
-</p>
-
 
 
 <!-- ![Tron Legacy](https://i.imgur.com/r7it5tZ.gif) -->
