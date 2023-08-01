@@ -62,7 +62,7 @@
 <br>
 <h2 align="center"> Github Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=radical&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
 </p>
 
 <!--
