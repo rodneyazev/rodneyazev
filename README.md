@@ -64,7 +64,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=radical&layout=pie" />
 </p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
+</div>
 <!--
 - 🔭 
 - 🌱 Learning Vue.js and QA/Test tools 
