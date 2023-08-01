@@ -63,7 +63,7 @@
 <h2 align="center"> Github Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodneyazev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=radical&layout=pie" />
 </p>
 
 <!--
