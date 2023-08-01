@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
 </p>
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodneyazev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 
 - 🌱 Learning Vue.js and QA/Test tools 
