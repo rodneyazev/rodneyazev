@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
   <br><br>
-  <i>Provided to YouTube by ONErpm :point_right: </i><a href="https://www.youtube.com/watch?v=ZmdyC8_IZmQ">21st Birthday · Waves_On_Waves</a>
+  <a href="https://www.youtube.com/watch?v=ZmdyC8_IZmQ">21st Birthday · Waves_On_Waves</a>
 </p>
 <!--
 - 🔭 
