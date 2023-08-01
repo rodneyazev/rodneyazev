@@ -5,6 +5,8 @@
   </a>
 </p>
 
+<p><hr></p>
+
 
 I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as my personal knowledge base.
 
