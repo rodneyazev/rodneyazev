@@ -1,14 +1,11 @@
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
-[![](https://www.linkedin.com/in/rodney-a-901681213/)
+![https://www.linkedin.com/in/rodney-a-901681213/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
 
 I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as my personal knowledge base.
 </p>
-
-
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 
