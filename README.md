@@ -63,8 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodneyazev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" />
-![rodneyazev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodneyazev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
+
 
 </p>
 
