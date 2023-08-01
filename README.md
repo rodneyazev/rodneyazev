@@ -7,6 +7,7 @@
 <p><hr></p>
 I'm an IT Analyst passionate about new technologies, who loves to create and innovate wherever I am and who likes to solve problems, and I'm using GitHub as my personal knowledge base.
 <p><hr></p>
+<p><img src="https://i.imgur.com/pr6cyqK.gif" /></p>
 <p>![John Wick](https://i.imgur.com/pr6cyqK.gif)</p>
 
 
