@@ -9,7 +9,7 @@ I'm an IT Analyst passionate about new technologies, who loves to create and inn
 <p><hr></p>
 <p align='center'>
   <a href="#">
-    <img src="https://i.imgur.com/m8GK4la.gif" />
+    <img src="https://i.imgur.com/05pAAX9.gif" />
   </a>
 </p>
 <p align='center'>
