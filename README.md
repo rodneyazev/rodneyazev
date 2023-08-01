@@ -14,6 +14,7 @@
     <img src="https://i.imgur.com/05pAAX9.gif" />
   </a>
 </p>
+### Languages 🛠
 <p align='center'>
   <a href="#">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
