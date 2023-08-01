@@ -66,7 +66,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyboy125&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical" />
 </p>
 
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodneyazev&show_icons=true&locale=en&count_private=true&theme=radical)](https://youtu.be/akvv8IDDYuA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E)
 <!--
 - 🔭 
 - 🌱 Learning Vue.js and QA/Test tools 
