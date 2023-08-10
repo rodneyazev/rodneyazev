@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
   <br><br>
-  :heart_on_fire: <a href="https://www.youtube.com/watch?v=RIStT96AHQU">Skeler · Arcadia</a> :rocket:
+  :heart_on_fire: <a href="https://www.youtube.com/watch?v=xDK_uAeQ3Mc">BrunuhVille · The Realm of the Fallen King</a> :rocket:
 </p>
 
 
