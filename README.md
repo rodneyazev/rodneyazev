@@ -64,9 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
   <br><br>
-  "Of all the wonders of nature, the most astonishing is humanity." - Sophocles
-  <br><br>
-  :heart_on_fire: <a href="https://www.youtube.com/watch?v=OmvmI-az57Y&t=215s"> · Humans After Us · </a> :rocket:
+  :heart_on_fire: <a href="https://www.youtube.com/watch?v=OmvmI-az57Y&t"> · "Of all the wonders of nature, the most astonishing is humanity." - Sophocles · </a> :rocket:
 </p>
 
 
