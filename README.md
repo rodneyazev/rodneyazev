@@ -1,4 +1,4 @@
-! Giving a code break for a week. Studying to ITIL exam.
+<center><i>Giving time to code. Studying to ITIL exam.</i></center>
   
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
 <p align='center'>
