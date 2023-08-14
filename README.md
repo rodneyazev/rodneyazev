@@ -1,4 +1,4 @@
-- Giving a code break for a week. Studying to ITIL exam.
+<span style="color:orange;">Giving a code break for a week. Studying to ITIL exam.</span>
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/rodney-azevedo-901681213/" target="_blank">
