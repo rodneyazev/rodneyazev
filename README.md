@@ -1,4 +1,4 @@
-<center><i>Giving time to code. Studying to ITIL exam.</i></center>
+<p align="center"><i>Giving time to code. Studying to ITIL exam.</i></p>
   
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
 <p align='center'>
