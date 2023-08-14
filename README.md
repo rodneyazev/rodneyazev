@@ -1,4 +1,4 @@
-<p>* Giving a code break for a week. Studying to ITIL exam</p>
+<p style="color: red;">* Giving a code break for a week. Studying to ITIL exam</p>
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/rodney-azevedo-901681213/" target="_blank">
