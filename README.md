@@ -58,8 +58,8 @@ An IT Analyst passionate about technologies who loves to create and innovate whe
 
 ## Brokers
 <p>
-<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 ## 🌱 Learning
