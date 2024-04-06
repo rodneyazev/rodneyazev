@@ -1,6 +1,6 @@
 <p align="center">Hi there, my name is Rodney and Welcome!</p>
 <p align='center'>
-An IT Analyst passionate about technologies who loves to create and innovate wherever I am.
+An IT Analyst passionate about new technologies who loves to create and innovate wherever I am.
 </p><hr>
 
 <p align='center'>
