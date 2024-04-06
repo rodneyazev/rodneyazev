@@ -7,7 +7,6 @@ An IT Analyst passionate about new technologies who loves to create and innovate
 <a href="#"><img src="https://i.imgur.com/05pAAX9.gif" /></a>
 </p><hr>
 
-
 ## Languages
 - Portuguese
 - English
@@ -21,6 +20,7 @@ An IT Analyst passionate about new technologies who loves to create and innovate
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -59,14 +59,12 @@ An IT Analyst passionate about new technologies who loves to create and innovate
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </p>
 
-
 <br><h2 align="center"> Github Statistics</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneyazev&langs_count=8&theme=dark&layout=pie" />
 <br><br>
 :heart_on_fire: <a href="https://www.youtube.com/watch?v=Gwn1XncgmwI&t=0s">"Of all the wonders of nature, the most astonishing is humanity." · Sophocles</a> :rocket:
 </p>
-
 
 <!--
 - 🔭 
